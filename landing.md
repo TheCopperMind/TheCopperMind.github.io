@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2></h2>
 		</header>
 		<p></p>
 	</div>
@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3></h3>
 				</header>
 				<p></p>
 				<ul class="actions">
@@ -44,7 +44,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3></h3>
 				</header>
 				<p></p>
 				<ul class="actions">
@@ -60,7 +60,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3></h3>
 				</header>
 				<p></p>
 				<ul class="actions">
@@ -75,7 +75,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2></h2>
 		</header>
 		<p></p>
 		<ul class="actions">
