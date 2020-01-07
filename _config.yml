@@ -10,7 +10,7 @@ street_address: Nordre Fegate 52
 city: Roa
 zip_code: 2740
 country: Norway
-phone:
+phone: +47 95744816
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
