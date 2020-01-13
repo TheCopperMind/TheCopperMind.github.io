@@ -6,8 +6,8 @@ description: I'm a computer science student at The University of Edinburgh. My m
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Lars Thalian Morstad
-street_address: Nordre Fegate 52
-city: Roa
+street_address:
+city:
 zip_code: 2740
 country: Norway
 phone: +47 95744816
